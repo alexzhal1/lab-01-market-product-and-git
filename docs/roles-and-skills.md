@@ -58,3 +58,21 @@ To work effectively in a modern product team, most of these roles share a set of
 3. **Understanding of HTTP/REST APIs**: Mobile engineers need to consume them, Backend engineers need to build them, and QAs need to test them. Understanding methods (GET, POST) and status codes (200, 404, 500) is crucial.
 4. **Agile Methodologies**: Familiarity with Scrum or Kanban workflows (Jira, Trello), stand-ups, and sprint planning is required for process synchronization.
 5. **Documentation Writing**: The ability to write clear technical documentation (like in Markdown) to explain code, APIs, or bug reports to other team members.
+
+## My chosen role
+
+### Role
+
+<Backend>
+
+### Skills I already have
+
+- Python
+- PostgreSQL
+
+### Skills I clearly lack
+
+- knowledge about API
+- Practical skills
+- Countarization skills
+- Git skills
